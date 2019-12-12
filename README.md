@@ -1,13 +1,11 @@
-# Flowspace
-
-A modern react boilerplate.
+# Simple JavaScript quiz application
 
 ## What it use
 
 * Typescript/JavaScript
 * React
+* Redux
 * Navi
-* GraphQL (apollo-boost)
 * Stylable
 * Material-UI
 
