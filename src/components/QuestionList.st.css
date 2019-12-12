@@ -1,0 +1,25 @@
+@namespace "QuestionList";
+
+.root {
+  font-size: 1.6rem;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.quizStart {
+  display: flex;
+  justify-items: center;
+  align-items: center;
+  padding-top: 2rem;
+}
+
+.quizStart > :not(:last-child) {
+  padding-right: 2.5rem;
+}
+
+.jsLogo {
+  width: 5rem;
+  height: 5rem;
+}

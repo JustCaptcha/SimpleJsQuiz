@@ -1,0 +1,12 @@
+@namespace "QuizContent";
+
+.root {
+}
+
+.quizEnd {
+  margin-top: 2rem;
+}
+
+.quizEnd > :not(:last-child) {
+  margin-bottom: 2rem;
+}
