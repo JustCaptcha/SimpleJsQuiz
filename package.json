@@ -1,5 +1,6 @@
 {
   "name": "flowspace",
+  "homepage": "https://justcaptcha.github.io/SimpleJsQuiz/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
