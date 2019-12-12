@@ -13300,3 +13300,45 @@ INFO  2019-12-12T20:15:43.137 5876  channel_create_event:201: new channel 228 (f
 INFO  2019-12-12T20:15:43.188 5876  on_process_exit:393: exited: pid=11798 status=0 stoptime=0
 INFO  2019-12-12T20:16:01.680 5876  channel_create_event:201: new channel 229 (function gitgutter#all[8]..gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 229, "mode": "bytes", "stream": "job"}
 INFO  2019-12-12T20:16:01.732 5876  on_process_exit:393: exited: pid=11846 status=0 stoptime=0
+INFO  2019-12-12T20:24:55.069 5876  channel_create_event:201: new channel 230 (function gitgutter#all[8]..gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 230, "mode": "bytes", "stream": "job"}
+INFO  2019-12-12T20:24:55.086 5876  on_process_exit:393: exited: pid=12734 status=0 stoptime=0
+INFO  2019-12-12T20:25:07.477 5876  channel_create_event:201: new channel 231 (function <SNR>24_on_bufenter[7]..gitgutter#process_buffer[10]..<SNR>80_setup_path[7]..gitgutter#utility#set_repo_path[12]..gitgutter#async#execute:11) : {"id": 231, "mode": "bytes", "stream": "job"}
+INFO  2019-12-12T20:25:07.484 5876  on_process_exit:393: exited: pid=12758 status=0 stoptime=0
+INFO  2019-12-12T20:25:07.519 5876  channel_create_event:201: new channel 232 (function airline#extensions#branch#get_head[1]..airline#extensions#branch#head[6]..<SNR>69_update_untracked[38]..airline#async#vcs_untracked[6]..airline#async#nvim_vcs_untracked:19) : {"id": 232, "mode": "bytes", "stream": "job"}
+INFO  2019-12-12T20:25:07.521 5876  channel_create_event:201: new channel 233 (function airline#extensions#branch#get_head[1]..airline#extensions#branch#head[6]..<SNR>69_update_untracked[42]..airline#async#vcs_clean[6]..airline#async#nvim_vcs_clean:24) : {"id": 233, "mode": "bytes", "stream": "job"}
+INFO  2019-12-12T20:25:07.524 5876  on_process_exit:393: exited: pid=12760 status=0 stoptime=0
+INFO  2019-12-12T20:25:07.529 5876  on_process_exit:393: exited: pid=12761 status=0 stoptime=0
+INFO  2019-12-12T20:25:07.535 5876  channel_create_event:201: new channel 234 (function <SNR>102_on_exit_nvim[2]..1[5]..gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 234, "mode": "bytes", "stream": "job"}
+INFO  2019-12-12T20:25:07.542 5876  on_process_exit:393: exited: pid=12763 status=0 stoptime=0
+INFO  2019-12-12T20:25:15.610 5876  channel_create_event:201: new channel 235 (function gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 235, "mode": "bytes", "stream": "job"}
+INFO  2019-12-12T20:25:15.620 5876  on_process_exit:393: exited: pid=12774 status=0 stoptime=0
+INFO  2019-12-12T20:25:16.526 5876  channel_create_event:201: new channel 236 (function gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 236, "mode": "bytes", "stream": "job"}
+INFO  2019-12-12T20:25:16.535 5876  on_process_exit:393: exited: pid=12780 status=0 stoptime=0
+INFO  2019-12-12T20:25:19.319 5876  channel_create_event:201: new channel 237 (function gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 237, "mode": "bytes", "stream": "job"}
+INFO  2019-12-12T20:25:19.328 5876  on_process_exit:393: exited: pid=12788 status=0 stoptime=0
+INFO  2019-12-12T20:25:24.512 5876  channel_create_event:201: new channel 238 (function gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 238, "mode": "bytes", "stream": "job"}
+INFO  2019-12-12T20:25:24.521 5876  on_process_exit:393: exited: pid=12796 status=0 stoptime=0
+INFO  2019-12-12T20:25:28.173 5876  channel_create_event:201: new channel 239 (function airline#extensions#branch#get_head[1]..airline#extensions#branch#head[6]..<SNR>69_update_untracked[38]..airline#async#vcs_untracked[6]..airline#async#nvim_vcs_untracked:19) : {"id": 239, "mode": "bytes", "stream": "job"}
+INFO  2019-12-12T20:25:28.176 5876  channel_create_event:201: new channel 240 (function airline#extensions#branch#get_head[1]..airline#extensions#branch#head[6]..<SNR>69_update_untracked[42]..airline#async#vcs_clean[6]..airline#async#nvim_vcs_clean:24) : {"id": 240, "mode": "bytes", "stream": "job"}
+INFO  2019-12-12T20:25:28.183 5876  on_process_exit:393: exited: pid=12805 status=0 stoptime=0
+INFO  2019-12-12T20:25:28.183 5876  on_process_exit:393: exited: pid=12806 status=0 stoptime=0
+INFO  2019-12-12T20:25:28.505 5876  channel_create_event:201: new channel 241 (function gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 241, "mode": "bytes", "stream": "job"}
+INFO  2019-12-12T20:25:28.514 5876  on_process_exit:393: exited: pid=12808 status=0 stoptime=0
+INFO  2019-12-12T20:25:37.103 5876  channel_create_event:201: new channel 242 (function <SNR>24_on_bufenter[7]..gitgutter#process_buffer[10]..<SNR>80_setup_path[7]..gitgutter#utility#set_repo_path[12]..gitgutter#async#execute:11) : {"id": 242, "mode": "bytes", "stream": "job"}
+INFO  2019-12-12T20:25:37.120 5876  on_process_exit:393: exited: pid=12818 status=0 stoptime=0
+INFO  2019-12-12T20:25:37.143 5876  channel_create_event:201: new channel 243 (function airline#extensions#branch#get_head[1]..airline#extensions#branch#head[6]..<SNR>69_update_untracked[38]..airline#async#vcs_untracked[6]..airline#async#nvim_vcs_untracked:19) : {"id": 243, "mode": "bytes", "stream": "job"}
+INFO  2019-12-12T20:25:37.147 5876  channel_create_event:201: new channel 244 (function airline#extensions#branch#get_head[1]..airline#extensions#branch#head[6]..<SNR>69_update_untracked[42]..airline#async#vcs_clean[6]..airline#async#nvim_vcs_clean:24) : {"id": 244, "mode": "bytes", "stream": "job"}
+INFO  2019-12-12T20:25:37.155 5876  on_process_exit:393: exited: pid=12820 status=0 stoptime=0
+INFO  2019-12-12T20:25:37.155 5876  on_process_exit:393: exited: pid=12821 status=0 stoptime=0
+INFO  2019-12-12T20:25:37.160 5876  channel_create_event:201: new channel 245 (function <SNR>102_on_exit_nvim[2]..1[5]..gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 245, "mode": "bytes", "stream": "job"}
+INFO  2019-12-12T20:25:37.195 5876  on_process_exit:393: exited: pid=12823 status=0 stoptime=0
+INFO  2019-12-12T20:25:52.747 5876  channel_create_event:201: new channel 246 (function gitgutter#all[8]..gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 246, "mode": "bytes", "stream": "job"}
+INFO  2019-12-12T20:25:52.770 5876  on_process_exit:393: exited: pid=12889 status=0 stoptime=0
+INFO  2019-12-12T20:25:59.042 5876  channel_create_event:201: new channel 247 (function gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 247, "mode": "bytes", "stream": "job"}
+INFO  2019-12-12T20:25:59.053 5876  on_process_exit:393: exited: pid=12902 status=0 stoptime=0
+INFO  2019-12-12T20:25:59.972 5876  channel_create_event:201: new channel 248 (function airline#extensions#branch#get_head[1]..airline#extensions#branch#head[6]..<SNR>69_update_untracked[38]..airline#async#vcs_untracked[6]..airline#async#nvim_vcs_untracked:19) : {"id": 248, "mode": "bytes", "stream": "job"}
+INFO  2019-12-12T20:25:59.976 5876  channel_create_event:201: new channel 249 (function airline#extensions#branch#get_head[1]..airline#extensions#branch#head[6]..<SNR>69_update_untracked[42]..airline#async#vcs_clean[6]..airline#async#nvim_vcs_clean:24) : {"id": 249, "mode": "bytes", "stream": "job"}
+INFO  2019-12-12T20:25:59.978 5876  on_process_exit:393: exited: pid=12922 status=0 stoptime=0
+INFO  2019-12-12T20:25:59.984 5876  on_process_exit:393: exited: pid=12923 status=0 stoptime=0
+INFO  2019-12-12T20:26:00.795 5876  channel_create_event:201: new channel 250 (function gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 250, "mode": "bytes", "stream": "job"}
+INFO  2019-12-12T20:26:00.806 5876  on_process_exit:393: exited: pid=12925 status=0 stoptime=0
